@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "unit-testing-practice",
+  "main": "task-one-test.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sj1978/testing-practice.git"
+  },
+  "author": "sj1978",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sj1978/testing-practice/issues"
+  },
+  "homepage": "https://github.com/sj1978/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
